@@ -1,4 +1,4 @@
-# 👋 Hola, soy David (daiv05)
+# 👋 Hi, I´m David (daiv05)
 
 Developer focused on creating reusable tools, integrations with open APIs, and solutions focused on data, UX, and standardization.
 
