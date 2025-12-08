@@ -49,7 +49,7 @@ Clarity and consistency accelerate the growth of any stack.
 
 | Medium | Link |
 |-------|--------|
-| Blog | [dderas.vercel.app](https://dderas.vercel.app) |
+| Portfolio | [deras.dev](https://deras.dev) |
 | Twitter | [@daiv_09](https://twitter.com/daiv_09) |
 | GitHub | [github.com/daiv05](https://github.com/daiv05) |
 | LinkedIn | [dderas](https://www.linkedin.com/in/dderas) |
